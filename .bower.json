@@ -1,0 +1,11 @@
+{
+  "name": "webfab-sidemenu",
+  "description": "Webfab Sidemenu",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "devDependencies": {},
+  "main": [
+    "./css/webfab-sidemenu.css"
+  ]
+}

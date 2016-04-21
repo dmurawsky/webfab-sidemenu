@@ -1,0 +1,25 @@
+{
+  "name": "webfab-sidemenu",
+  "description": "Webfab Sidemenu",
+  "version": "0.0.1",
+  "keywords": [
+    "webfab"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "main": [
+    "./css/webfab-sidemenu.css"
+  ],
+  "authors": [
+    "Daniel Murawsky <d.r.murawsky@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "webfab.co",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
